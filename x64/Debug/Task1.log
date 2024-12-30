@@ -1,0 +1,4 @@
+﻿  pch.cpp
+D:\Исахан\lab7\Task1\packages\spdlog.native.1.0.0\build\native\include\spdlog\spdlog.h(7,10): error C1014: слишком много включаемых файлов: глубина = 1024
+  (компиляция исходного файла "pch.cpp")
+  
